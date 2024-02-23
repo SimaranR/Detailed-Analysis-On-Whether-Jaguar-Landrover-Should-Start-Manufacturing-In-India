@@ -27,11 +27,7 @@ Jaguar Land Rover (JLR) is considering expanding its manufacturing operations to
 
 The project structure is organized as follows:
 
-- `data/`: Contains the datasets used for analysis.
-- `notebooks/`: Jupyter notebooks used for data cleaning, exploratory data analysis, and modeling.
-- `reports/`: Final reports, presentations, and documentation.
-- `src/`: Custom scripts or code used for analysis.
-- `README.md`: This file, providing an overview of the project.
+- `Jaguar Land Rover CAse study.pptx/`: Presentation of the project.
 
 ## Data Sources
 
